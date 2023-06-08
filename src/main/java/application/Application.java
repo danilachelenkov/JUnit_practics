@@ -34,4 +34,6 @@ public class Application {
         }
         return receiptText;
     }
+
+
 }
