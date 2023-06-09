@@ -1,6 +1,6 @@
 package ru.netology;
 
-import application.Application;
+import ru.netology.application.Application;
 
 public class Main {
     public static void main(String[] args) {

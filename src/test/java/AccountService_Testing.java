@@ -1,14 +1,14 @@
-import application.Application;
+import ru.netology.application.Application;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.function.Executable;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
-import services.Bill;
-import services.TaxService;
-import taxes.IncomeTaxType;
-import taxes.ProgressiveTaxType;
-import taxes.VATaxType;
+import ru.netology.services.Bill;
+import ru.netology.services.TaxService;
+import ru.netology.taxes.IncomeTaxType;
+import ru.netology.taxes.ProgressiveTaxType;
+import ru.netology.taxes.VATaxType;
 
 import java.math.BigDecimal;
 import java.util.stream.Stream;

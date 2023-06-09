@@ -1,11 +1,10 @@
-package application;
+package ru.netology.application;
 
-import services.Bill;
-import services.TaxService;
-import taxes.IncomeTaxType;
-import taxes.ProgressiveTaxType;
-import taxes.TaxType;
-import taxes.VATaxType;
+import ru.netology.services.Bill;
+import ru.netology.services.TaxService;
+import ru.netology.taxes.IncomeTaxType;
+import ru.netology.taxes.ProgressiveTaxType;
+import ru.netology.taxes.VATaxType;
 
 import java.math.BigDecimal;
 

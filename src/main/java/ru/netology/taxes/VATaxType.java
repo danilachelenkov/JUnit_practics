@@ -1,4 +1,4 @@
-package taxes;
+package ru.netology.taxes;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

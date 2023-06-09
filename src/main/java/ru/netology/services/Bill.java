@@ -1,6 +1,6 @@
-package services;
+package ru.netology.services;
 
-import taxes.TaxType;
+import ru.netology.taxes.TaxType;
 
 import java.math.BigDecimal;
 
