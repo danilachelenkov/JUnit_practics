@@ -1,4 +1,4 @@
-package taxes;
+package ru.netology.taxes;
 
 public class Taxes {
 

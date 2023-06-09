@@ -1,4 +1,4 @@
-package services;
+package ru.netology.services;
 
 import java.math.BigDecimal;
 
